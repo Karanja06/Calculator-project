@@ -2,7 +2,7 @@
 #### {This project entails code for a basic calculator program with the following operators: addition, Subtraction, Multiplication and Division.}, {30/05/2019}
 #### By **{Kennedy Karanja}**
 ## Description
-{this is code for a basic clcuator program entailing the basic mathematical functions of Addition, Subtraction, Multiplication and Division. }
+{this is code for a basic calculator program entailing the basic mathematical functions of Addition, Subtraction, Multiplication and Division. }
 ## Setup/Installation Requirements
 * none
 ## Known Bugs
